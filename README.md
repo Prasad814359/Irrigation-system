@@ -3,5 +3,6 @@ The aim of the project is to irrigate  plants through  automation. I used Arduin
  They could be used especially in farming land to maintain the quality of crops.
  
  ![](Connections.jpg)
+ ![](image.jpg)
  
  
